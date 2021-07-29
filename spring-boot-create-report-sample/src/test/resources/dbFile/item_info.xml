@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <item_info item_code="1234" item_name="hoge1" author="author1" original_price="800" price_with_tax="850" release_date="20210710" delete_flg="0" creator="testCreator" create_time="2021-07-13 21:08:20" updater="testUpdater" update_time="2021-07-13 21:08:20" />
+    <item_info item_code="1235" item_name="hoge2" author="author2" original_price="1300" price_with_tax="1380" release_date="20210711" delete_flg="0" creator="testCreator" create_time="2021-07-13 21:08:22" updater="testUpdater" update_time="2021-07-13 21:08:22" />
+    <item_info item_code="1236" item_name="hoge3" original_price="1400" price_with_tax="1490" release_date="20210712" delete_flg="0" creator="testCreator" create_time="2021-07-13 21:08:24" updater="testUpdater" update_time="2021-07-13 21:08:24" />
+    <item_info item_code="1237" item_name="hoge4" author="author4" original_price="1450" price_with_tax="1495" release_date="20210713" delete_flg="1" creator="testCreator" create_time="2021-07-13 21:08:24" updater="testUpdater" update_time="2021-07-13 21:08:24" />
+</dataset>

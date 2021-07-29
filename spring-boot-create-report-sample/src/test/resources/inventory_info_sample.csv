@@ -1,0 +1,5 @@
+item code,original price,price with tax,item name,author,release date,all inventory num,inventory number in warehouse01,inventory number in warehouse02,damage typeA all,damage typeA number in warehouse01,damage typeA number in warehouse02,damage typeB all,damage typeB number in warehouse01,damage typeB number in warehouse02
+1234,1100,1180,item name1,author1,20210510,21,10,11,5,3,2,9,4,5
+1235,1200,1290,item name2,author2,20210611,44,18,26,4,0,4,6,5,1
+1236,1300,1395,item name3,author3,20210712,6,0,6,4,0,4,5,0,5
+1230,1000,1030,item name4,author4,20210805,0,0,0,0,0,0,0,0,0
